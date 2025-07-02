@@ -1,7 +1,5 @@
 package com.josefroes.desafio_componentes_injecao_dependencia.entities;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 public class Order {
 
     private Integer code;
